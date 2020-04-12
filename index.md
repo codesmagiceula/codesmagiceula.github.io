@@ -1,9 +1,9 @@
 # IMPORTANT
-By downloading, installing or copying this software you accept all the terms and conditions of this agreement.
+By downloading, installing or copying the software you accept all the terms and conditions of this agreement.
 If you do not agree to the terms of this agreement, do not use the software.
 
 ## Software License
-The software is licensed, not sold. Patent and copyright laws and international copyright treaties, as well as other intellectual property laws and treaties protect this software.
+The software is licensed, not sold. Patent and copyright laws and international copyright treaties, as well as other intellectual property laws and treaties protect the software.
 If you obtained the software and required serial number from Codes Magic and as long as you comply with the terms of this agreement, Codes Magic grants you a non-exclusive license to install and use the software in a manner consistent with its design and documentation.
 
 ## Intellectual Property Ownership
