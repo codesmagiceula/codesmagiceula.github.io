@@ -20,7 +20,12 @@ No Transfer. You will not rent, lease, sell, sublicense, assign or transfer your
 ## Disclaimer
 Codes Magic expressly disclaims any warranty for the software. The software and any related documentation is provided "as is" without warranty of any kind, either express or implied, including, without limitation, the implied warranties or merchantability, fitness for a particular purpose, or on infringement. The entire risk arising out of use or performance of the software remains with you.
 
+## Modifications
+We may revise these terms of use for the plugins at any time without notice. By using the plugins you are agreeing to be bound by the then current version of these Terms and Conditions of Use.
+
 ## Limitation of Liability
 Except for the exclusive remedy offered BY Codes Magic above and any remedies that cannot be excluded or limited under law, Codes Magic will not be liable to you for any loss, damages, claims or costs whatsoever including any consequential, indirect or incidental damages, any lost profits or lost savings, any damages resulting from business interruption, even if a Codes Magic representative has been advised of the possibility of such loss, damages, claims or costs. In any event, Codes Magic's aggregate liability under or in connection with this agreement will be limited to the amount paid for the software, if any.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+We do not guarantee that our software will meet all of your requirements, or that any errors in our software will be corrected.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. WE DO NOT GUARANTEE THE CONTINUOUS, UNINTERRUPTED AND ERROR-FREE OPERABILITY OF THE SERVICE.
